@@ -85,6 +85,5 @@ This use case leverages multiple cloud services learned throughout the course:
 - Assignment 2: Flask web application for request intake and dashboard
 - Assignment 3: Azure Functions for scheduled aging reports (timer-triggered)
 - Assignment 4: Azure SQL Database for structured request metadata
-- Assignment 5: Optional NoSQL (Cosmos DB) for flexible metadata schemas
 
 
