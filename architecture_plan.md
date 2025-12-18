@@ -8,7 +8,7 @@
  | Compute - Web application | Azure App Service / Container Apps | Host Flask web application serving request intake forms, status dashboards, and API endpoints | Assignment 2 - Flask app on Cloud VM; networking, firewall rules, and exposing app to internet |
  | Database / SQL | Azure Database for MySQL | Store structured requests, status history, and user tables | Assignment 4 - MySQL on VM vs managed services; deploy MySQL, use SQLAlchemy and pandas |
  | Security | Azure Key Vault | User authentication via SSO and secrets management (keys) | Assignments 1–3 - SSH keys, firewall rules |
- | Analytics | Azure ML notebook | trend analysis , predictive turnaround times, executive reporting, visual analytics, performance tracking | Assignments 4–5 - data visualizations, utilizing AI |
+ | Analytics | Azure ML notebook | Trend analysis , predictive turnaround times, executive reporting, visual analytics, performance tracking | Assignments 4–5 - data visualizations, utilizing AI |
 
 ## Data Flow Narrative
 ### Step 1 - Request Intake
